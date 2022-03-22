@@ -16,7 +16,7 @@ namespace cep_api
 
                 requisita = new Api();
 
-                //pega o cpf digitado pelo usuario
+                //pega o cep digitado pelo usuario
                 Console.WriteLine("Buscar endereço atraves do cep");
                 Console.Write("Digite seu cep: ");
 
